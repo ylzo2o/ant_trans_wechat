@@ -1,3 +1,3 @@
-ant_wechat
+ant_trans_wechat
 ==========
-微信公众号
+交易系统微信版本
